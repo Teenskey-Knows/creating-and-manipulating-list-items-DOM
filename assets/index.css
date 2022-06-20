@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.background-main{
+    background-color: blue;
+    height: 100vh;
+    width: 100vw;
+}
+
+.whiteArea{
+    width:40rem;
+    height:30rem;
+    border:0.2rem solid rgb(255, 255, 255) ;
+   background: transparent ;
+   margin: 10rem;
+  
+}
